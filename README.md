@@ -12,11 +12,11 @@ Columns include: account, symbol, execution price, size, side, time, start posit
 
 Requirements:
 
-bashpip install pandas numpy matplotlib seaborn scipy
+bash:pip install pandas numpy matplotlib seaborn scipy
 
 Run the analysis:
 
-bashpython analysis.py
+bash:python analysis.py
 
 Make sure both CSV files are placed inside a data/ folder next to the script before running.
 
